@@ -1,9 +1,9 @@
 .App {
-  text-align: left;
+  text-align: center;
 }
 
 .App-logo {
-  height: 60vmin;
+  height: 40vmin;
   pointer-events: none;
 }
 
@@ -15,13 +15,13 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 700vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(140px + 20vmin);
-  color: blue;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
 .App-link {
