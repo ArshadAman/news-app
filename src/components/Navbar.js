@@ -54,7 +54,7 @@ const Navbar = () => {
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/technology">
-                  Coading
+                  Technology
                 </Link>
               </li>
             </ul>
